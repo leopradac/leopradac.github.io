@@ -1,0 +1,1 @@
+import{_ as t,q as o,w as n,s as c,o as _,d as a}from"./D_lg_yVf.js";const s={};function r(m,x){const e=c;return _(),o(e,{name:"demo"},{title:n(()=>[a(" Demo component ")]),_:1})}const p=t(s,[["render",r]]);export{p as default};

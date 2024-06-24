@@ -1,1 +1,0 @@
-import{_ as t}from"./CYNi-8cB.js";import{_ as n,n as s,c as a,d as e,b as r,w as c,o as _}from"./B2bJNEfO.js";const d=s({mounted(){this.$router.push("/demo/themes")}});function m(p,u,i,f,l,x){const o=t;return _(),a("div",null,[e(" Playground. "),r(o,{to:"/demo"},{default:c(()=>[e(" Demo Page ")]),_:1})])}const k=n(d,[["render",m]]);export{k as default};
